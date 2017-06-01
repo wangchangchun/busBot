@@ -32,14 +32,14 @@ The initial state is set to `what_do_you_find`.
 The program is used to search the Tainan bus information.
 There are 3 functions in this program.
 
-* Search the route picture:
+* Search the route picture :
     Input the bus route , it will return a route picture for you.   
     If you input the route name not exist, it will give you alert "**查無此路線！請重新輸入：** " .
-* Search time table:
+* Search time table :
     Input the bus route and go forward or backward , it will return a time table within 5 hours for you.
     If you input the route name not exist, it will give you alert "**查無此路線！請重新輸入：** ".
     If there is no bus today , it will return you "***末班駛離*** ".
-* List all bus stops of the bus route you want to know:
+* List all bus stops of the bus route you want to know :
     Input the bus route , it will return all bus stops of the bus route you want to know.   
     If you input the route name not exist, it will give you alert "**查無此路線！請重新輸入：** " .
 
